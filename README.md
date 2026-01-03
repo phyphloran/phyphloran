@@ -19,7 +19,13 @@
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=&logo=gitlab&logoColor=white" alt="GitLab">
     <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=&logo=github-actions&logoColor=white" alt="GitHub Actions">
     <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=&logo=amazons3&logoColor=white" alt="S3">
+    <img src="https://img.shields.io/badge/Junit-25A162?style=&logo=junit5&logoColor=white" alt="Junit">
+    <img src="https://img.shields.io/badge/Mockito-8D6E63?style=&logo=mockito&logoColor=white" alt="Mockito">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=&logo=postman&logoColor=white" alt="Postman">
+    <img src="https://img.shields.io/badge/REST_API-61DAFB?style=&logo=rest&logoColor=black" alt="REST API">
+    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=&logo=swagger&logoColor=white" alt="Swagger">
 </div>
+
 
 <h3 align="center">💬 Follow me 💬</h3>
 
