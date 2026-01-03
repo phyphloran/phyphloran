@@ -2,7 +2,7 @@
   <img src="header.png" alt="Header Image" style="width: 100%; height: auto;">
 </div>
 
-<h3 align="center">⚡️Languages and tools⚡️</h3>
+<h3 align="center">⚡️Stack⚡️</h3>
 
 <div align="center">
     <img src="https://img.shields.io/badge/Java-808080?style=&logo=openjdk&logoColor=white" alt="Java">
