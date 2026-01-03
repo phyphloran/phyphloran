@@ -12,6 +12,13 @@
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=&logo=spring&logoColor=white" alt="Spring">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/GitHub-100000?style=&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=&logo=redis&logoColor=white" alt="Redis">
+    <img src="https://img.shields.io/badge/Kafka-231F20?style=&logo=apachekafka&logoColor=white" alt="Kafka">
+    <img src="https://img.shields.io/badge/JMeter-DB8C2E?style=&logo=apachejmeter&logoColor=white" alt="JMeter">
+    <img src="https://img.shields.io/badge/CI/CD-00A2E8?style=&logo=travis&logoColor=white" alt="CI/CD">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=&logo=gitlab&logoColor=white" alt="GitLab">
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=&logo=github-actions&logoColor=white" alt="GitHub Actions">
+    <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=&logo=amazons3&logoColor=white" alt="S3">
 </div>
 
 <h3 align="center">💬 Follow me 💬</h3>
